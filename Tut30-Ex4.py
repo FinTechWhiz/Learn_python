@@ -47,6 +47,8 @@ else:
 if b == 1:
     for i in range(0, a ):
         print('*' * (i+1))
-else:
+elif b==0:
     for i in range(a, 0, -1):
         print('*' * i)
+else:
+    print("Invalid Input")
