@@ -7,7 +7,7 @@ if attempt exceeds 4 time then print Account blocked . please visit the nearest 
 (Username = Ram & Password= 1234)
 """
 cu = ("Ram")
-cp = 1234
+cp = 1111
 i = 1
 while (i<=4):
     u = input("Username: ")
